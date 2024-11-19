@@ -89,7 +89,7 @@ header {
     right: 0;
     background: #5e5037;
     width: 100%;
-    padding: 1rem;
+    padding: 0;
     display: none; /* Initially hidden */
   }
 
